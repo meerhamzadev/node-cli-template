@@ -1,7 +1,6 @@
 ![banner image](./assets/banner.png)
 
 <div align = "center"><h3>A nodejs template to quickly get you started with your cli tool.</h3> </div>
-<br />
 
 # Usage 🚀
 
