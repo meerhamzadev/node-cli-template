@@ -35,6 +35,6 @@
 
 # External Link⚡
 
-To get an idea of different files used in the project. You can read this article by [saad irfan](www.github.com/msaaddev).
+To get an idea of different files used in the project. You can read this article by [Saad Irfan](https://github.com/msaaddev/).
 
 [Read Article](https://dev.to/msaaddev/files-every-open-source-project-must-have-2mmm)
