@@ -28,9 +28,9 @@
 
 🙋🏻‍♂️ Yo! It's Meer, a junior year CS undergrad. Let's get connected
 
-- [LinkedIn](https://www.linkedin.com/in/meerhamza1421/)
-- [Twitter](https://twitter.com/MeerHamza1421/)
-- [dev.to](https://dev.to/meerhamza1421/)
+<a href="https://twitter.com/meerhamzadev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>&nbsp;
+<a href="https://linkedin.com/in/meerhamzadev/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:hamzababar37@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub."><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
 
 
 # External Link⚡
